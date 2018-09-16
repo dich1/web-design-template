@@ -37,3 +37,8 @@ header nav {
 #main-visual h2 span {
   font-size:80%;
 }
+
+#top-contents p {
+  font-size:20px;
+  line-height:3em;
+}
