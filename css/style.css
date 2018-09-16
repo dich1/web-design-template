@@ -26,3 +26,10 @@ header nav {
 #main-visual {
   margin-top:125px;
 }
+#main-visual h2 {
+  padding-top:90px;
+  line-height:2em;
+}
+#main-visual h2 span {
+  font-size:80%;
+}
