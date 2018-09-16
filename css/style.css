@@ -12,3 +12,17 @@ body, h1, h2, h3, ul, li, p, dl, dt, dd {
 header nav {
   padding:40px 0 !important;
 }
+
+.btn-list li a {
+  display:inline-block;
+  height:34px;
+  border-radius:17px;
+}
+.btn-list .sns a {
+  width:34px;
+  padding:6px 11px;
+}
+
+#main-visual {
+  margin-top:125px;
+}
