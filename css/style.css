@@ -8,3 +8,7 @@ body, h1, h2, h3, ul, li, p, dl, dt, dd {
   margin:0;
   padding:0;
 }
+
+header nav {
+  padding:40px 0 !important;
+}
