@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+body {
+  font-family: -apple-system, "Trebuchet MS", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴシック ProN", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", "游ゴシック体", "YuGothic", "Meiryo UI", "メイリオ", "Meiryo", "Helvetica Neue", "Helvetica", "Open Sans", "Arial", "Verdana", BlinkMacSystemFont, Roboto, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+body, h1, h2, h3, ul, li, p, dl, dt, dd {
+  margin:0;
+  padding:0;
+}
